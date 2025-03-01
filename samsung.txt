@@ -1,2 +1,24 @@
-x.ss2.us
+# Title: Christians Blacklist
+#
+#
+# Date: 01 March 2025 23:18:46 (UTC)
+# Number of unique domains: 127,470
+#
+#
+# smb://cw69pi.local/public/samsungtv.txt
+# file:///Volumes/public/pihole/samsungtv.txt
+#
+# ===============================================================
+#
+dasendedesinternet.de
+#
+# Client samsungtv.local
+#
+tvpnlinupepgpeu.samsungcloud.tv
+pmdvod.audimedia.edgesuite.net
+cdn-0.nflximg.com
+api-global.netflix.com
+customerevents.netflix.com
 ichnaea.netflix.com
+nrdp50-appboot.netflix.com
+
