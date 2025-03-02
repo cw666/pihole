@@ -4,6 +4,7 @@
 # Date: 01 March 2025 23:18:46 (UTC)
 # Number of unique domains: 127,470
 #
+#
 # smb://cw69pi.local/public/samsungtv.txt
 # file:///Volumes/public/pihole/samsungtv.txt
 #
@@ -25,6 +26,7 @@ nrdp-cell4.prod.ftl.netflix.com
 nrdp-ipv4.prod.ftl.netflix.com	
 nrdp.nccp.netflix.com	
 nrdp.prod.cloud.netflix.com	
+nrdp50-appboot.netflix.com	
 nrdp51-appboot.netflix.com	
 occ-0-3571-2774.1.nflxso.net	
 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com	
@@ -41,4 +43,3 @@ selfsigned.ueiwsp.com
 time.samsungcloudsolution.net	
 tvpnlinupepgpeu.samsungcloud.tv	
 uiboot.netflix.com	
-
