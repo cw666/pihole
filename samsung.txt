@@ -1,3 +1,4 @@
+
 # Title: Christians Blacklist
 #
 #
@@ -14,11 +15,32 @@ dasendedesinternet.de
 #
 # Client samsungtv.local
 #
-tvpnlinupepgpeu.samsungcloud.tv
-pmdvod.audimedia.edgesuite.net
-cdn-0.nflximg.com
-api-global.netflix.com
+api-global.netflix.com	
+cdn-0.nflximg.com	
 customerevents.netflix.com
+gld.push.samsungosp.com	
+i5-img.7tv.de
 ichnaea.netflix.com
-nrdp50-appboot.netflix.com
+images.dazn.com	
+musicid.samsungcloud.tv	
+nrdp-cell4.prod.ftl.netflix.com	
+nrdp-ipv4.prod.ftl.netflix.com	
+nrdp.nccp.netflix.com	
+nrdp.prod.cloud.netflix.com	
+nrdp51-appboot.netflix.com	
+occ-0-3571-2774.1.nflxso.net	
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com	
+osb-apps.samsungqbe.com	
+osb-eusvc.samsungqbe.com	
+osb-v1-alb.samsungqbe.com	
+osb-v1-eusvc.samsungqbe.com	
+osb.samsungqbe.com	
+pmdvod.audimedia.edgesuite.net	
+preapp.prod.partner.netflix.net	
+seat-cupra-pk0700-cdn.tvapp-server.de	
+secure.netflix.com	
+selfsigned.ueiwsp.com	
+time.samsungcloudsolution.net	
+tvpnlinupepgpeu.samsungcloud.tv	
+uiboot.netflix.com	
 
