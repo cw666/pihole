@@ -1,10 +1,8 @@
-
 # Title: Christians Blacklist
 #
 #
 # Date: 01 March 2025 23:18:46 (UTC)
 # Number of unique domains: 127,470
-#
 #
 # smb://cw69pi.local/public/samsungtv.txt
 # file:///Volumes/public/pihole/samsungtv.txt
