@@ -43,3 +43,4 @@ selfsigned.ueiwsp.com
 time.samsungcloudsolution.net	
 tvpnlinupepgpeu.samsungcloud.tv	
 uiboot.netflix.com	
+x.ss2.us
