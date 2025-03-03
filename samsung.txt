@@ -10,7 +10,7 @@
 #
 # ===============================================================
 #
-dasendedesinternet.de
+0.0.0.0 dasendedesinternet.de
 #
 # Client samsungtv.local
 #
@@ -43,8 +43,8 @@ selfsigned.ueiwsp.com
 time.samsungcloudsolution.net	
 tvpnlinupepgpeu.samsungcloud.tv	
 uiboot.netflix.com	
-x.ss2.us
-time.samsungcloudsolution.net	
-musicid.samsungcloud.tv	
-osb-auth-eusvc.samsungqbe.com	
-osb-v1-eusvc.samsungqbe.com
+0.0.0.0 x.ss2.us
+0.0.0.0 time.samsungcloudsolution.net	
+0.0.0.0 musicid.samsungcloud.tv	
+0.0.0.0 osb-auth-eusvc.samsungqbe.com	
+0.0.0.0 osb-v1-eusvc.samsungqbe.com
