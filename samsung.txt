@@ -44,3 +44,7 @@ time.samsungcloudsolution.net
 tvpnlinupepgpeu.samsungcloud.tv	
 uiboot.netflix.com	
 x.ss2.us
+time.samsungcloudsolution.net	
+musicid.samsungcloud.tv	
+osb-auth-eusvc.samsungqbe.com	
+osb-v1-eusvc.samsungqbe.com
