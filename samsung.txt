@@ -14,37 +14,34 @@
 #
 # Client samsungtv.local
 #
-api-global.netflix.com
-cdn-0.nflximg.com
-customerevents.netflix.com
-gld.push.samsungosp.com
-i5-img.7tv.de
-ichnaea.netflix.com
-images.dazn.com
-musicid.samsungcloud.tv
-nrdp-cell4.prod.ftl.netflix.com
-nrdp-ipv4.prod.ftl.netflix.com
-nrdp.nccp.netflix.com
-nrdp.prod.cloud.netflix.com
-nrdp50-appboot.netflix.com
-nrdp51-appboot.netflix.com
-occ-0-3571-2774.1.nflxso.net
-ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
-osb-apps.samsungqbe.com
-osb-eusvc.samsungqbe.com
-osb-v1-alb.samsungqbe.com
-osb-v1-eusvc.samsungqbe.com
-osb.samsungqbe.com
-pmdvod.audimedia.edgesuite.net
-preapp.prod.partner.netflix.net
-seat-cupra-pk0700-cdn.tvapp-server.de
-secure.netflix.com
-selfsigned.ueiwsp.com
-time.samsungcloudsolution.net
-tvpnlinupepgpeu.samsungcloud.tv
-uiboot.netflix.com
-0.0.0.0 x.ss2.us
-0.0.0.0 time.samsungcloudsolution.net
+0.0.0.0 api-global.netflix.com
+0.0.0.0 cdn-0.nflximg.com
+0.0.0.0 customerevents.netflix.com
+0.0.0.0 gld.push.samsungosp.com
+0.0.0.0 i5-img.7tv.de
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 images.dazn.com
 0.0.0.0 musicid.samsungcloud.tv
+0.0.0.0 nrdp-cell4.prod.ftl.netflix.com
+0.0.0.0 nrdp-ipv4.prod.ftl.netflix.com
+0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp.prod.cloud.netflix.com
+0.0.0.0 nrdp50-appboot.netflix.com
+0.0.0.0 nrdp51-appboot.netflix.com
+0.0.0.0 occ-0-3571-2774.1.nflxso.net
+0.0.0.0 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+0.0.0.0 osb-apps.samsungqbe.com
 0.0.0.0 osb-auth-eusvc.samsungqbe.com
+0.0.0.0 osb-eusvc.samsungqbe.com
+0.0.0.0 osb-v1-alb.samsungqbe.com
 0.0.0.0 osb-v1-eusvc.samsungqbe.com
+0.0.0.0 osb.samsungqbe.com
+0.0.0.0 pmdvod.audimedia.edgesuite.net
+0.0.0.0 preapp.prod.partner.netflix.net
+0.0.0.0 seat-cupra-pk0700-cdn.tvapp-server.de
+0.0.0.0 secure.netflix.com
+0.0.0.0 selfsigned.ueiwsp.com
+0.0.0.0 time.samsungcloudsolution.net
+0.0.0.0 tvpnlinupepgpeu.samsungcloud.tv
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 x.ss2.us
